@@ -1,0 +1,6 @@
+.blauw{
+    position: relative;
+    left: 100px;
+    top: -100px;
+    z-index: -1;
+}
